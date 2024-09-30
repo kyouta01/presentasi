@@ -564,7 +564,7 @@ span {
   display: flex;
   flex-direction: column; /* Mengatur agar item berjejer ke bawah */
   margin-bottom: 20px; /* Jarak antar item */
-  background-image: url('https://via.placeholder.com/800x600'); /* URL gambar background */
+  background-image: url('Source/Foto/istockphoto-944812540-612x612.jpg'); /* URL gambar background */
   background-size: cover; /* Mengatur ukuran gambar agar menutupi kontainer */
   background-position: center; /* Mengatur posisi gambar di tengah kontainer */
 }
