@@ -304,6 +304,7 @@ label {
   bottom: 0;
   height: inherit;
   object-fit: cover;
+  align-items: center;
 }
 
 .recipe_ingredients::-webkit-scrollbar,
